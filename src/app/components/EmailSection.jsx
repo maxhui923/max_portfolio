@@ -18,7 +18,7 @@ const EmailSection = () => {
         <h5 className="text-xl font-bold text-white my-2">Connect Me</h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          I'm actively seeking new opportunities, and my inbox is always open.
+          I am actively seeking new opportunities, and my inbox is always open.
           Whether you have a question or just want to say hi, I'll do my best to
           respond promptly. Feel free to reach out anytime!
         </p>

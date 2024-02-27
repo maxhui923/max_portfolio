@@ -48,7 +48,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm a SAIT Software Development graduate with over a decade of public
+            I am a SAIT Software Development graduate with over a decade of public
             service experience, transitioning into full stack web development.
             Passionate about crafting interactive web applications, I thrive
             both independently and within teams, possessing proficiency in
